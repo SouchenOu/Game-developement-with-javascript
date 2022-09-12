@@ -13,3 +13,12 @@
     left: 0px;
     bottom: 500px;
 }
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: navy;
+    left: 0px;
+    bottom: 500px;
+}
