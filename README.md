@@ -1,7 +1,7 @@
 # Game-developement-with-javascript
 
 
-Document Object Model that i used :
+Document Object Model:
 ------------------------------------
 
 *Document.querySelectorAll('.example'): means Select all elements with class="example"
