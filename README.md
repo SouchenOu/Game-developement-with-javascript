@@ -24,3 +24,9 @@ CSS Layout - The position Property:
 ----------
 
 <img width="1549" alt="seconde game" src="https://user-images.githubusercontent.com/87101785/189620423-951c471a-f992-4986-8b29-3809a1198999.png">
+
+-Third game:
+-----------
+
+<img width="1067" alt="Screen Shot 2022-09-12 at 4 45 38 PM" src="https://user-images.githubusercontent.com/87101785/189698313-d12e317b-d863-46c8-9008-456c9eb64c5a.png">
+
