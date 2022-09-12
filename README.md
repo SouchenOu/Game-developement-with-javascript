@@ -10,7 +10,10 @@ Document Object Model:
 
 *The Math.random() function returns a floating-point, pseudo-random number that's greater than or equal to 0 and less than 1, with approximately uniform distribution over that range — which you can then scale to your desired range. 
 
+CSS Layout - The position Property:
+----------------------------------
 
+*An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
 
 -First game :
 -------------
