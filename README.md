@@ -13,8 +13,9 @@ Document Object Model:
 
 
 First game :
+-------------
 
-
+<img width="644" alt="Screen Shot 2022-09-12 at 10 31 17 AM" src="https://user-images.githubusercontent.com/87101785/189620765-6a4be0ea-8a56-4294-aafb-bfae24c0b306.png">
 
 
 
