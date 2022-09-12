@@ -18,6 +18,7 @@ First game :
 
 
 
-Seconde game:
+Second game:
+----------
 
 <img width="1549" alt="seconde game" src="https://user-images.githubusercontent.com/87101785/189620423-951c471a-f992-4986-8b29-3809a1198999.png">
